@@ -34,20 +34,6 @@ video {
     z-index: 1;
 }
 
-/* body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-
-    background-image: url('./assets/bg.jpg');
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
-
-
-
-
 header {
     background-color: #f4f4f4;
     padding: 20px;
